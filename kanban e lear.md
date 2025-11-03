@@ -1,4 +1,8 @@
+<img width="1416" height="748" alt="image" src="https://github.com/user-attachments/assets/d8213f41-19b8-4a84-a067-bf409e02df1e" />
+
 O **Kanban** é um método visual de **gestão de fluxo de trabalho** que ajuda equipes a visualizar tarefas, identificar gargalos e otimizar processos.  
+<img width="648" height="339" alt="image" src="https://github.com/user-attachments/assets/e8c30c32-f723-4e1c-9e01-f2cbd07650aa" />
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/99d1f2a1-56ce-479b-8930-d3d2716e02a4" />
 
 ### 📜 Origem
 - Criado na **Toyota** (década de 1940) para controle de produção.  
@@ -97,8 +101,11 @@ Eles decidem otimizar os scripts, reduzindo o tempo para 1 dia.
 ---
 
 Fundamentos do Lean Thinking
+<img width="694" height="325" alt="image" src="https://github.com/user-attachments/assets/772753ce-c5d0-4bfc-abb9-358410d72ff9" />
 
 O **Lean Thinking** (pensamento enxuto) visa **eliminar desperdícios** e **maximizar o valor entregue** ao cliente.
+
+Lean foca na otimização de processos e na eliminação de desperdícios, visando a eficiência máxima, enquanto Agile foca na entrega de valor de forma iterativa e flexível, permitindo adaptação rápida a mudanças.
 
 ### 🏭 Origem
 Baseado no **Toyota Production System (TPS)**, criado por **Taiichi Ohno**.
